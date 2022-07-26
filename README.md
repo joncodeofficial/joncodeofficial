@@ -1,10 +1,10 @@
 <div align="right">
 
-# Hi I am Jonathan Peña 💻
+# I am Jonathan Peña 💻
 
 </div>
 
-<img width="480" height="auto" align="right" src="https://github.com/jonpena/jonpena/blob/main/banner.png">
+<img width="460" height="auto" align="right" src="https://github.com/jonpena/jonpena/blob/main/banner.png">
  
  
 I am a front-end developer who enjoys doing the layout and interactivity 
