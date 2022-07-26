@@ -4,7 +4,7 @@
 
 </div>
 
-<img width="500" height="220" align="right" src="https://github.com/jonpena/jonpena/blob/main/banner.png">
+<img width="480" height="220" align="right" src="https://github.com/jonpena/jonpena/blob/main/banner.png">
 
 I am a front-end developer who enjoys doing the layout and interactivity 
 of web interfaces, as well as optimization. I am a completely self-taught person 
