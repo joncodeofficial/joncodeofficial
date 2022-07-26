@@ -11,7 +11,7 @@ I am a front-end developer who enjoys doing the layout and interactivity of web 
 
 For more information visit my website <a href="https://jonpena.github.io" target="_blank" rel="noopener">jonpena.github.io</a>
 
-I am also the creator of <a href="https://github.com/jonpena/Cirobb" target="_blank" rel="noopener">Cirobb</a> a 2D Rigid Body Physics Engine inspired by **Box2D Lite** that was created with the purpose of helping people who are starting in this wonderful world of physics for **Videogames**
+I am also the creator of <a href="https://github.com/jonpena/Cirobb" target="_blank" rel="noopener">Cirobb</a> a 2D Rigid Body Physics Engine inspired by **Box2D Lite** that was created with the purpose of helping people who are starting in this wonderful world of physics for 🎮 **Videogames** 
 
 <img align="center" src="https://github.com/jonpena/jonpena/blob/main/poster.png">
 
