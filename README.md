@@ -1,6 +1,6 @@
 <div align="right">
 
-# I am Jonathan Peña 💻
+# JONATHAN PEÑA 💻
 
 </div>
 
