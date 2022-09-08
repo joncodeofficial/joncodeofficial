@@ -5,7 +5,6 @@
 </div>
 
 <br />
-<br />
 
 <img width="400" height="auto" align="right" src="https://github.com/jonpena/jonpena/blob/main/banner.png">
 
