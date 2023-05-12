@@ -51,3 +51,19 @@ in this wonderful world of physics for **Videogames** 🎮
 
 </p>
 
+<p align="center">Wanna Know me More?</p>
+
+<p align="center">
+ 
+<a href="https://jonpena.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a> 
+
+<a href="https://www.youtube.com/@jonathanpena3078" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>  
+
+<a href="https://www.linkedin.com/in/jonpeña" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=jonpena.jonpena" alt="Jonpena :: Visitor's Count" /></p>
+    
+</p>
