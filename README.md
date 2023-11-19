@@ -10,7 +10,7 @@
 
 I am a **Fullstack Developer 💻**. I enjoy doing the layout and interactivity of web interfaces, as well as optimization, for the good positioning and loading performance of web sites and applications.
 
-I also have experience in Content Marketing, SEO and Video Game Development.
+I also have experience in Content Marketing, and Video Game Development.
 
 For more information visit my website <a href="https://jonpena.github.io" target="_blank" rel="noopener">jonpena.github.io</a>
 
