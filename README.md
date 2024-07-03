@@ -23,7 +23,7 @@ in this wonderful world of physics for **Videogames** 🎮
 
 <br />
 
-<table>
+<table align="center">
     <tr>
         <td><img src="https://react.dev/images/brand/logo_dark.svg" alt="react" width="40" height="40"/></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="30"/> </td>
