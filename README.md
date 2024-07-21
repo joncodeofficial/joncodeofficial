@@ -54,7 +54,7 @@ in this wonderful world of physics for **Videogames** 🎮
 <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=html5&logoColor=orange" alt="Portfolio" /></a> 
 
 <a href="https://www.youtube.com/@jonathanpena3078" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>  
+<img src="https://img.shields.io/badge/CV-F7017B?logo=readdotcv" height="" alt="Curriculum vitae" /></a>  
 
 <a href="https://www.linkedin.com/in/jonpeña" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
