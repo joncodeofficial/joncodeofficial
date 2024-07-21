@@ -39,7 +39,7 @@ in this wonderful world of physics for **Videogames** 🎮
         <td><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/></td> 
         <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang" width="45" height="45"/></td> 
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td> 
-        <td><img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-Transparent-Images.png" alt="mysql" width="45" height="35"/></td> 
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/180px-Postgresql_elephant.svg.png" alt="Postgres" width="35" height="35"/></td> 
         <td><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="AWS" width="40" height="25"/></td> 
         <td><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="40" height="32"/></td> 
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td> 
@@ -53,8 +53,8 @@ in this wonderful world of physics for **Videogames** 🎮
 <a href="https://jonpena.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=html5&logoColor=orange" alt="Portfolio" /></a> 
 
-<a href="https://www.youtube.com/@jonathanpena3078" target="_blank">
-<img src="https://img.shields.io/badge/CV-F7017B?logo=readdotcv" height="" alt="Curriculum vitae" /></a>  
+<a href="https://jonpena.github.io/CV.pdf" target="_blank">
+<img src="https://img.shields.io/badge/curriculum-007EC6?logo=readdotcv&style=for-the-badge" alt="Curriculum vitae" /></a>  
 
 <a href="https://www.linkedin.com/in/jonpeña" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
