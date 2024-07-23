@@ -36,10 +36,10 @@ in this wonderful world of physics for **Videogames** 🎮
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="24" height="24"/></td> 
-        <td><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="20" height="20"/></td> 
+        <td><img src="https://cdn.icon-icons.com/icons2/2667/PNG/32/folder_express_icon_161294.png" alt="express" width="20" height="20"/></td> 
         <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/32/golang_logo_icon_171073.png" alt="Golang"/></td> 
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="24" height="24"/></td> 
-        <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/32/postgresql_logo_icon_170835.png" alt="Postgres" width="24" height="24"/></td> 
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/30px-Postgresql_elephant.svg.png" alt="Postgres" width="24" height="24"/></td> 
         <td><img src="https://cdn.icon-icons.com/icons2/2407/PNG/32/aws_icon_146074.png" alt="AWS"/></td> 
         <td><img src="https://cdn.icon-icons.com/icons2/2407/PNG/32/docker_icon_146192.png" alt="Docker"/></td> 
         <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/></td> 
