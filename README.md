@@ -30,7 +30,7 @@ in this wonderful world of physics for **Videogames** 🎮
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/32px-Tailwind_CSS_Logo.svg.png" alt="tailwind"/></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="24"/> </td> 
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="24"/></td>
-        <td><img src="https://cdn.icon-icons.com/icons2/2389/PNG/32/next_js_logo_icon_145038.png" alt="nextjs"/></td>
+        <td><img src="https://cdn3.emoji.gg/emojis/9549-nextjs.png" alt="nextjs" width="32"/></td>
         <td><img src="https://v4.mui.com/static/logo.png" alt="MUI" width="25" height="25"/></td>
         <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/></td> 
     </tr>
