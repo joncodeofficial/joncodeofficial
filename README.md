@@ -26,13 +26,13 @@ in this wonderful world of physics for **Videogames** 🎮
 <table align="center">
     <tr>
         <td><img src="https://react.dev/images/brand/logo_dark.svg" alt="react" width="32" height="32"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> </td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/> </td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/32px-Tailwind_CSS_Logo.svg.png" alt="tailwind"/></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="24"/> </td> 
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="24"/></td>
         <td><img src="https://cdn.icon-icons.com/icons2/2389/PNG/32/next_js_logo_icon_145038.png" alt="nextjs"/></td>
         <td><img src="https://v4.mui.com/static/logo.png" alt="MUI" width="25" height="25"/></td>
-        <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/></td> 
+        <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/></td> 
     </tr>
     <tr>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/></td> 
