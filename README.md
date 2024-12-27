@@ -6,12 +6,9 @@
 
 <br />
 
-<img width="385" height="auto" align="right" src="https://github.com/jonpena/jonpena/blob/main/banner.png">
+<img width="385" height="auto" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
-I am a **Fullstack Developer 💻**. I enjoy doing the layout and interactivity of web interfaces, as well as optimization, for the good positioning and loading performance of web sites and applications.
-
-I also have experience in Video Game Development.
-
+I am a seasoned Fullstack Developer 💻 with a strong focus on frontend development. I excel at crafting intuitive and engaging web interfaces, prioritizing performance optimization, lightning-fast load times, and top-tier search engine visibility.
 For more information visit my website <a href="https://jonpena.github.io" target="_blank" rel="noopener">jonpena.github.io</a>
 
 I am the creator of <a href="https://github.com/jonpena/Cirobb" target="_blank" rel="noopener">Cirobb</a> a 2D Rigid Body Physics Engine inspired by **Box2D Lite** that was created with the purpose of helping people who are starting 
@@ -19,7 +16,7 @@ in this wonderful world of physics for **Videogames** 🎮
 
 <br />
 
-## Skills and Tegnologies
+## Skills and Technologies
 
 <br />
 
