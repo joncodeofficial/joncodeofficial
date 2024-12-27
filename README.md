@@ -6,7 +6,7 @@
 
 <br />
 
-<img width="385" height="auto" align="right" src="/banner.gif">
+<img width="385" height="auto" align="right" src="/animation.gif">
 
 I am a seasoned Fullstack Developer 💻 with a strong focus on frontend development. I excel at crafting intuitive and engaging web interfaces, prioritizing performance optimization, lightning-fast load times, and top-tier search engine visibility.
 
