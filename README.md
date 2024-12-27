@@ -6,9 +6,10 @@
 
 <br />
 
-<img width="385" height="auto" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img width="385" height="auto" align="right" src="/ezgif.com-gif-maker_2b31.gif">
 
 I am a seasoned Fullstack Developer 💻 with a strong focus on frontend development. I excel at crafting intuitive and engaging web interfaces, prioritizing performance optimization, lightning-fast load times, and top-tier search engine visibility.
+
 For more information visit my website <a href="https://jonpena.github.io" target="_blank" rel="noopener">jonpena.github.io</a>
 
 I am the creator of <a href="https://github.com/jonpena/Cirobb" target="_blank" rel="noopener">Cirobb</a> a 2D Rigid Body Physics Engine inspired by **Box2D Lite** that was created with the purpose of helping people who are starting 
