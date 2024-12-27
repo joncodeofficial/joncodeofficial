@@ -6,7 +6,7 @@
 
 <br />
 
-<img width="385" height="auto" align="right" src="/ezgif.com-gif-maker_2b31.gif">
+<img width="385" height="auto" align="right" src="/banner.gif">
 
 I am a seasoned Fullstack Developer 💻 with a strong focus on frontend development. I excel at crafting intuitive and engaging web interfaces, prioritizing performance optimization, lightning-fast load times, and top-tier search engine visibility.
 
