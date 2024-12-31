@@ -51,7 +51,7 @@ in this wonderful world of physics for **Videogames** 🎮
 <a href="https://jonpena.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=html5&logoColor=orange" alt="Portfolio" /></a> 
 
-<a href="https://jonpena.github.io/CV.pdf" target="_blank">
+<a href="https://jonpena.github.io/CV" target="_blank">
 <img src="https://img.shields.io/badge/curriculum-007EC6?logo=readdotcv&style=for-the-badge" alt="Curriculum vitae" /></a>  
 
 <a href="https://www.linkedin.com/in/jonpeña" target="_blank">
