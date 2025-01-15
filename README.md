@@ -60,3 +60,7 @@ in this wonderful world of physics for **Videogames** 🎮
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=jonpena.jonpena" alt="Jonpena :: Visitor's Count" /></p>
     
 </p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Commit"/>
+</p>
