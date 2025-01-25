@@ -25,25 +25,18 @@ in this wonderful world of physics for **Videogames** 🎮
     
 # 💻 Tech Stack 
 
-## 🌟 Frontend Technologies
-| **React** ⚛️ | **TypeScript** 🦕 | **Tailwind CSS** 🎨 | **Redux** 🗂️ | **Sass** 💅 | **Next.js** ⚡ | **Material UI (MUI)** 🖌️ | **Figma** 🎨 |
+| React ⚛️ | TypeScript 🦕 | Tailwind CSS 🎨 | Redux 🗂️ | Sass 💅 | Next.js ⚡ | MUI 🖌️ | Figma 🎨 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React"> | <img src="https://skillicons.dev/icons?i=typescript" width="32" height="32" alt="TypeScript"> | <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind"> | <img src="https://skillicons.dev/icons?i=redux" width="32" height="32" alt="Redux"> | <img src="https://skillicons.dev/icons?i=sass" width="32" height="32" alt="Sass"> | <img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js"> | <img src="https://skillicons.dev/icons?i=materialui" width="32" height="32" alt="MUI"> | <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma"> |
-
----
-
-## 🛠️ Backend & Tools
-| **Node.js** 🚀 | **Express** 🌐 | **Golang** 🐹 | **MongoDB** 🍃 | **PostgreSQL** 🐘 | **AWS** ☁️ | **Docker** 🐳 | **Git** 🧑‍💻 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Node.js 🚀 | Express 🌐 | Golang 🐹 | MongoDB 🍃 | PostgreSQL 🐘 | AWS ☁️ | Docker 🐳 | Git 🧑‍💻 |
 | <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="Node.js"> | <img src="https://skillicons.dev/icons?i=express" width="32" height="32" alt="Express"> | <img src="https://skillicons.dev/icons?i=go" width="32" height="32" alt="Golang"> | <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB"> | <img src="https://skillicons.dev/icons?i=postgres" width="32" height="32" alt="PostgreSQL"> | <img src="https://skillicons.dev/icons?i=aws" width="32" height="32" alt="AWS"> | <img src="https://skillicons.dev/icons?i=docker" width="32" height="32" alt="Docker"> | <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git"> |
 
 ---
 
 ## ✨ Highlights 
-- 🚀 **Passionate Developer**: Constantly learning and expanding skills in full-stack development.  
-- 🔧 **Problem Solver**: Experienced in building scalable, efficient, and maintainable solutions.  
-- 💡 **Creative Designer**: Crafting pixel-perfect, user-friendly interfaces.  
-
+🚀 **Passionate Developer**: Constantly learning and expanding skills in full-stack development  
+🔧 **Problem Solver**: Experienced in building scalable, efficient, and maintainable solutions  
+💡 **Creative Designer**: Crafting pixel-perfect, user-friendly interfaces  
 
 </div>
 
