@@ -21,29 +21,32 @@ in this wonderful world of physics for **Videogames** 🎮
 
 <br />
 
-<table align="center">
-    <tr>
-        <td><img src="https://react.dev/images/brand/logo_dark.svg" alt="react" width="32" height="32"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/> </td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/32px-Tailwind_CSS_Logo.svg.png" alt="tailwind"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="24"/> </td> 
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="24"/></td>
-        <td><img src="https://cdn3.emoji.gg/emojis/9549-nextjs.png" alt="nextjs" width="32"/></td>
-        <td><img src="https://v4.mui.com/static/logo.png" alt="MUI" width="25" height="25"/></td>
-        <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/></td> 
-    </tr>
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/></td> 
-        <td><img src="https://cdn.icon-icons.com/icons2/2667/PNG/32/folder_express_icon_161294.png" alt="express"/></td> 
-        <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/32/golang_logo_icon_171073.png" alt="Golang"/></td> 
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="32" height="32"/></td> 
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/32px-Postgresql_elephant.svg.png" alt="Postgres"/></td> 
-        <td><img src="https://cdn.icon-icons.com/icons2/2407/PNG/32/aws_icon_146074.png" alt="AWS"/></td> 
-        <td><img src="https://cdn.icon-icons.com/icons2/2407/PNG/32/docker_icon_146192.png" alt="Docker"/></td> 
-        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/></td> 
-    </tr>
-</table>
+<div align="center">
     
+# 💻 Tech Stack 
+
+## 🌟 Frontend Technologies
+| **React** ⚛️ | **TypeScript** 🦕 | **Tailwind CSS** 🎨 | **Redux** 🗂️ | **Sass** 💅 | **Next.js** ⚡ | **Material UI (MUI)** 🖌️ | **Figma** 🎨 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React"> | <img src="https://skillicons.dev/icons?i=typescript" width="32" height="32" alt="TypeScript"> | <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind"> | <img src="https://skillicons.dev/icons?i=redux" width="32" height="32" alt="Redux"> | <img src="https://skillicons.dev/icons?i=sass" width="32" height="32" alt="Sass"> | <img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js"> | <img src="https://skillicons.dev/icons?i=materialui" width="32" height="32" alt="MUI"> | <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma"> |
+
+---
+
+## 🛠️ Backend & Tools
+| **Node.js** 🚀 | **Express** 🌐 | **Golang** 🐹 | **MongoDB** 🍃 | **PostgreSQL** 🐘 | **AWS** ☁️ | **Docker** 🐳 | **Git** 🧑‍💻 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="Node.js"> | <img src="https://skillicons.dev/icons?i=express" width="32" height="32" alt="Express"> | <img src="https://skillicons.dev/icons?i=go" width="32" height="32" alt="Golang"> | <img src="https://skillicons.dev/icons?i=mongodb" width="32" height="32" alt="MongoDB"> | <img src="https://skillicons.dev/icons?i=postgres" width="32" height="32" alt="PostgreSQL"> | <img src="https://skillicons.dev/icons?i=aws" width="32" height="32" alt="AWS"> | <img src="https://skillicons.dev/icons?i=docker" width="32" height="32" alt="Docker"> | <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git"> |
+
+---
+
+## ✨ Highlights 
+- 🚀 **Passionate Developer**: Constantly learning and expanding skills in full-stack development.  
+- 🔧 **Problem Solver**: Experienced in building scalable, efficient, and maintainable solutions.  
+- 💡 **Creative Designer**: Crafting pixel-perfect, user-friendly interfaces.  
+
+
+</div>
+
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
