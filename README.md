@@ -8,7 +8,7 @@
 
 <img width="385" height="auto" align="right" src="/animation.gif">
 
-I am a seasoned Frontend Developer 💻 with a strong focus on frontend development. I excel at crafting intuitive and engaging web interfaces, prioritizing performance optimization, lightning-fast load times, and top-tier search engine visibility.
+I am a seasoned Frontend Developer 💻. I excel at crafting intuitive and engaging web interfaces, prioritizing performance optimization, lightning-fast load times, and top-tier search engine visibility.
 
 For more information visit my website <a href="https://jonpena.github.io" target="_blank" rel="noopener">jonpena.github.io</a>
 
