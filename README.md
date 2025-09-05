@@ -50,10 +50,10 @@ in this wonderful world of physics for **Videogames** 🎮
 <a href="https://joncodeofficial.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=html5&logoColor=orange" alt="Portfolio" /></a> 
 
-<a href="https://joncodeofficial.github.io/CV" target="_blank">
+<a href="https://cv.joncode.workers.dev/" target="_blank">
 <img src="https://img.shields.io/badge/curriculum-007EC6?logo=readdotcv&style=for-the-badge" alt="Curriculum vitae" /></a>  
 
-<a href="https://www.linkedin.com/in/jonpeña" target="_blank">
+<a href="https://www.linkedin.com/in/joncode" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=joncodeofficial.joncodeofficial" alt="Joncodeofficial :: Visitor's Count" /></p>
