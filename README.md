@@ -36,6 +36,8 @@ For more information visit my website <a href="https://joncodeofficial.github.io
 
 <p align="center">Wanna Know me More?</p>
 
+
+
 <p align="center">
  
 <a href="https://joncodeofficial.github.io/" target="_blank">
@@ -46,5 +48,12 @@ For more information visit my website <a href="https://joncodeofficial.github.io
 
 <a href="https://www.linkedin.com/in/joncode" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    
+
+<a href="https://www.youtube.com/@joncodeofficial" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joncodeofficial&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
