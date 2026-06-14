@@ -4,7 +4,7 @@
 
 </div>
 
-<br />
+<br/>
 
 <img width="385" height="auto" align="right" src="/animation.gif">
 
